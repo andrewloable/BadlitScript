@@ -40,5 +40,5 @@ For example, the word **tabon** is going to be typed as `tbon/`
 # Samples
 ![alt text](https://github.com/andrewloable/BadlitScript/blob/master/badlit%20scipt%20samples.PNG "Badlit Script Samples")
 
-# Disclamer
+# Disclaimer
 This font is still a work in progress. Some diacritical marks will overlap on some characters.
