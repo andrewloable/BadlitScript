@@ -36,3 +36,6 @@ For example, the word **ako** is going to be typed as `Ako` where the consonant 
 
 For consonants without vowels on the end, use **/** to mark as such.
 For example, the word **tabon** is going to be typed as `tabon/`
+
+# Samples
+![alt text](https://github.com/andrewloable/BadlitScript/blob/master/badlit%20scipt%20samples.PNG "Badlit Script Samples")
