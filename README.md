@@ -35,7 +35,7 @@ To modify the consonants default pronunciation, use the lower case vowel after t
 For example, the word **ako** is going to be typed as `Ako` where the consonant Ka is followed by lower case o to form Ko.
 
 For consonants without vowels on the end, use **/** to mark as such.
-For example, the word **tabon** is going to be typed as `tabon/`
+For example, the word **tabon** is going to be typed as `tbon/`
 
 # Samples
 ![alt text](https://github.com/andrewloable/BadlitScript/blob/master/badlit%20scipt%20samples.PNG "Badlit Script Samples")
