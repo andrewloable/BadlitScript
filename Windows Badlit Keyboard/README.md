@@ -1,4 +1,4 @@
-# Badlit Keyboard for Windows
+# Badlit Sulat Bisaya Keyboard for Windows
 
 You can use this custom keyboard for windows to type Badlit Script using the assigned unicode slots for Tagalog gylphs.
 
